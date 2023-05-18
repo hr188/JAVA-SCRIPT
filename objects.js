@@ -21,6 +21,7 @@ console.log(person);
 
 //iteration in obj
 //for loop
+console.log("start of for in loop");
 for(var ke in person){
     console.log(`${ke}: ${person[key]}`);
 }

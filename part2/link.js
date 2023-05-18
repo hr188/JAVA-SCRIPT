@@ -2,6 +2,7 @@ console.dir(document);
 
 //select element by by id
 const  mainheading=document.getElementById("main-heading");
+console.log(mainheading);
 //ye object return karta hai
 
 
