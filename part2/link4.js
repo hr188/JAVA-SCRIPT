@@ -21,3 +21,6 @@ navitem = Array.from(navitem);
 navitem.forEach((single) => {
     single.style.fontWeight = "bold";
 });
+
+const change = document.querySelectorAll(".nav-item");
+change.style.fontWeight = "bold";
